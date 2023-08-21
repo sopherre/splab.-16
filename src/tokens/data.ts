@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 21 Aug 2023 05:12:35 GMT
+ * Generated on Mon, 21 Aug 2023 09:21:33 GMT
  */
 
 export const PalettePrimary50 = "#FAFAFA";
