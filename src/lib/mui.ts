@@ -1,5 +1,5 @@
 import { createTheme } from "@mui/material";
-import { H1 } from "../tokens/theme";
+import * as tokens from "../tokens/data";
 
 export const theme = createTheme({
   palette: {
@@ -107,13 +107,8 @@ export const theme = createTheme({
     },
   },
   typography: {
-    h1: H1,
-    h2: {
-      fontFamily: H1.fontFamily,
-      fontSize: 24,
-      fontWeight: 400,
-      lineHeight: 1,
-    },
+    h1: tokens.TypographyH1,
+    h2: tokens.TypographyH2,
     h3: {
       fontFamily: '"Roboto","Helvetica","Arial",sans-serif',
       fontSize: 20,
