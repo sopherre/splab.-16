@@ -3,11 +3,10 @@
 ## スクリプトの実行
 
 ```sh
-./node_modules/.bin/token-transformer data/tokens.json src/tokens/output.json
-```
+# パッケージのインストール
+pnpm install
 
-```sh
-pnpm style-dictionary build --config style-dictionary.config.json
+# スクリプトの実行
+pnpm update:design-token
+# ==> src/tokens/data.ts にトークン情報が出力される
 ```
-
-==> src/tokens/data.ts にトークン情報が出力される
