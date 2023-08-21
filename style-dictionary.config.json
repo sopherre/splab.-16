@@ -4,16 +4,7 @@
     "ts": {
       "buildPath": "src/tokens/",
       "transformGroup": "js",
-      "files": [
-        {
-          "format": "javascript/es6",
-          "destination": "tokens.ts"
-        },
-        {
-          "format": "typescript/es6-declarations",
-          "destination": "tokens.d.ts"
-        }
-      ]
+      "files": [{ "format": "javascript/es6", "destination": "data.ts" }]
     }
   }
 }
