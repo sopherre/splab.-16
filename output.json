@@ -1,0 +1,58 @@
+{
+  "h1": {
+    "value": {
+      "fontFamily": "\"Roboto\",\"Helvetica\",\"Arial\",sans-serif",
+      "fontWeight": 500,
+      "lineHeight": 32,
+      "fontSize": 28,
+      "letterSpacing": 0
+    },
+    "type": "typography"
+  },
+  "h2": {
+    "value": {
+      "fontFamily": "\"Roboto\",\"Helvetica\",\"Arial\",sans-serif",
+      "fontWeight": 400,
+      "fontSize": 24,
+      "letterSpacing": 0,
+      "lineHeight": 24
+    },
+    "type": "typography"
+  },
+  "h3": {
+    "value": {
+      "fontFamily": "\"Roboto\",\"Helvetica\",\"Arial\",sans-serif",
+      "fontWeight": 400,
+      "lineHeight": 20,
+      "fontSize": 20,
+      "letterSpacing": 0
+    },
+    "type": "typography"
+  },
+  "palette": {
+    "primary": {
+      "main": {
+        "value": "#F5F5F5",
+        "type": "other"
+      }
+    }
+  },
+  "secondary": {
+    "main": {
+      "value": "#2196F3",
+      "type": "other"
+    }
+  },
+  "background": {
+    "default": {
+      "value": "#FFFFFF",
+      "type": "other"
+    }
+  },
+  "text": {
+    "secondary": {
+      "value": "#37352fa6",
+      "type": "other"
+    }
+  }
+}
