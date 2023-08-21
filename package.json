@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "update:design-token": "sh scripts/output-token.sh"
   },
   "dependencies": {
     "@mui/material": "^5.14.5",

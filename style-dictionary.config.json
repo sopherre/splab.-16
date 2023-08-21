@@ -1,5 +1,5 @@
 {
-  "source": ["output.json"],
+  "source": ["src/tokens/output.json"],
   "platforms": {
     "ts": {
       "buildPath": "src/tokens/",
