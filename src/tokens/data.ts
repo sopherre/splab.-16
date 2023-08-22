@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 22 Aug 2023 09:50:27 GMT
+ * Generated on Tue, 22 Aug 2023 09:57:14 GMT
  */
 
 export const PalettePrimary50 = "#FAFAFA";
@@ -13,7 +13,7 @@ export const PalettePrimary600 = "#757575";
 export const PalettePrimary700 = "#616161";
 export const PalettePrimary800 = "#424242";
 export const PalettePrimary900 = "#212121";
-export const PalettePrimaryMain = "#FFFFFF";
+export const PalettePrimaryMain = "#000000";
 export const PaletteSecondary50 = "#2196f30a";
 export const PaletteSecondary100 = "#BBDEFB";
 export const PaletteSecondary200 = "#2196f380";
