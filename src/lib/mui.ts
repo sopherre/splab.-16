@@ -4,7 +4,7 @@ import * as tokens from "../tokens/data";
 export const theme = createTheme({
   palette: {
     primary: {
-      main: "#F5F5F5",
+      main: tokens.PalettePrimaryMain,
     },
     secondary: {
       main: "#2196F3",
